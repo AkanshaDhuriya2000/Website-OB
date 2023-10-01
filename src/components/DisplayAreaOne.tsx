@@ -29,8 +29,8 @@ const DisplayAreaOne = () => {
           />
         </div>
       </div>
-      <div className="relative flex flex-col w-1/4 p-20 gap-6 bg-slate-100" id="focus">
-        <div className="absolute -left-20 top-4 rounded-full w-36 h-36 bg-white flex items-center justify-center z-10">
+      <div className="relative flex flex-col w-1/4 p-20 gap-8 bg-slate-100" id="focus">
+        <div className="absolute -left-20 top-0 rounded-full w-36 h-36 bg-white flex items-center justify-center z-10">
           <img
             src="/assets/challenges/target.png"
             alt="target"
