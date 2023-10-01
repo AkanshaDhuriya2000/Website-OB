@@ -33,7 +33,7 @@ const Header = () => {
             </div>
           </div>
         </div>
-        <div className="h-2/3 px-2 flex flex-row items-center">
+        <div className="h-2/3 px-5 flex flex-row items-center">
           <div className="flex flex-row gap-8 w-full">
             <a href="#">Home</a>
             <a href="#">About</a>
@@ -55,7 +55,7 @@ const Header = () => {
         </div>
       </div>
       <div className="w-2/12 flex flex-col">
-        <div className="h-1/3 flex flex-row items-center justify-center gap-4 border-b bg-gradient-to-r from-orange-400 to-orange-250">
+        <div className="h-1/3 flex flex-row items-center justify-center gap-4 border-b border-black">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             height="1em"
