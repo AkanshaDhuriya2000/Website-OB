@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div className="flex flex-row w-screen bg-gradient-to-l from-orange-400 to-slate-500">
+    <div className="flex flex-row w-full bg-gradient-to-l from-orange-400 to-slate-500">
       <img
         src="./assets/Orangebits_Logo.png"
         className="object-contain w-2/12"

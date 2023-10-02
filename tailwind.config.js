@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      skew: {
+        '50': '50deg',
+       }
+    },
   },
   plugins: [],
 }

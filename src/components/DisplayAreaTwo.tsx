@@ -1,12 +1,12 @@
 const DisplayAreaTwo = () => {
   return (
-    <div className="flex flex-row w-screen">
-      <div className="flex flex-col w-1/4 px-20 py-6 gap-6">
+    <div className="flex flex-row w-full">
+      <div className="w-1/4 px-20 py-6">
         <div className="font-bold text-4xl">
           Simplifying IT For Complex World
         </div>
       </div>
-      <div className="flex flex-col w-2/4 px-20 py-6 items-center">
+      <div className="flex flex-col w-2/4 px-10 py-6 items-center">
         <div className="flex flex-col gap-4">
           <div className="text-base font-semibold">About us</div>
           <div className="text-base font-semibold">Why us</div>
